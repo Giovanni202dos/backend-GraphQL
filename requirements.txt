@@ -1,0 +1,7 @@
+Flask==2.2.3
+psycopg2-binary==2.9.5
+sqlalchemy>=1.2,<2
+flask_cors==3.0.10
+flask_graphql==2.0.1
+graphene==2.1.9
+graphene_sqlalchemy==2.3.0
